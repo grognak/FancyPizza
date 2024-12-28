@@ -1,0 +1,27 @@
+{
+    "name": "<RECIPE NAME>",
+    "description": "<RECIPE DESCRIPTION>",
+    "servings": "Descibe how many servings the recipe makes",
+    "ingredients": {
+        "base": "<DOUGH>",
+        "sauce": "<SAUCE>",
+        "cheese": "<CHEESE>",
+        "toppings": [
+            "<TOPPING_1>",
+            "<TOPPING_2"
+        ],
+        "garnishes": [
+            "<GARNISH_1>",
+            "<GARNISH_2>"
+        ]
+    },
+    "instructions": [
+        "INSTRUCTION_STEP_1",
+        "INSTRUCTION_STEP_2",
+        "INSTRUCTION_STEP_3"
+    ],
+    "notes": [
+        "NOTE_1",
+        "NOTE_2"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "<NAME>",
+    "category": "<CATEGORY>",
+    "description": "<DESCRIPTION>",
+    "servings": "Describe the number of servings this recipe makes",
+    "ingredients": [
+        "INGREDIENT_1",
+        "INGREDIENT_2",
+        "INGREDIENT_3"
+    ],
+    "instructions": [
+        "INSTRUCTION_STEP_1",
+        "INSTRUCTION_STEP_2",
+        "INSTRUCTION_STEP_3"
+    ],
+    "notes": [
+        "NOTE_1",
+        "NOTE_2"
+    ]
+}
