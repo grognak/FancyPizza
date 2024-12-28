@@ -16,5 +16,9 @@
     "notes": [
         "NOTE_1",
         "NOTE_2"
+    ],
+    "tags": [
+        "TAG_1",
+        "TAG_2"
     ]
 }
