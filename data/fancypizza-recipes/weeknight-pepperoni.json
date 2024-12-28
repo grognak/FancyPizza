@@ -1,0 +1,35 @@
+{
+    "name": "Weeknight Pepperoni",
+    "description": "A classic easy-to-prepare pizza. Perfect for a quick weeknight meal.",
+    "servings": "2 14-inch pizzas",
+    "ingredients": {
+        "base": "1x Easy Supermarket Dough",
+        "sauce": "1x Easy Tinned Tomato Sauce",
+        "cheese": "9oz Mozzarella & Cheddar Blend",
+        "toppings": [
+            "Pepperoni (Feel free to adjust the quantity of pepperoni based on how much you want)"
+        ],
+        "garnishes": [
+            "Grated Pecorino (Optional)"
+        ]
+    },
+    "instructions": [
+        "Prepare the Easy Supermarket Dough as per it's recipe but split the dough in half before the final rest.",
+        "Preheat your oven as high as it can go (500-550) for at least 30 minutes (usually I do 45 minutes).",
+        "While the oven is preheating prepare the Easy Tinned Tomato Sauce as per the recipe.",
+        "Once the oven is preheated work each doughball by gently stretching it out via your desired method and place on your pizza peel or cooking pan.",
+        "Parbake the crust for 3 minutes.",
+        "Once the crust is parbaked turn on your broiler.",
+        "Ladle your tomato sauce onto the crust and spread it out working from the outside in towards the center of the pizza.",
+        "Spread the Mozzarella & Cheddar Blend cheese around the sauce in a thin layer.",
+        "Working from the outside of the pizza in towards the center lay the pepperonis out with their ends overlapping (Don't worry the pepperoni will shrink while cooking).",
+        "Pop the pizza into the oven and bake for about 5-7 minutes or until the cheese on the pizza is starting to turn a golden brown.",
+        "Pull the pizza out of the oven, sprinkle on the grated pecorino, slice, and serve!",
+        "Repeat the steps above for the second doughball."
+    ],
+    "notes": [ ],
+    "tags": [
+        "quick",
+        "meat"
+    ]
+}

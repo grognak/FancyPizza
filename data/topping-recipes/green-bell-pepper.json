@@ -1,0 +1,12 @@
+{
+    "name": "Green Pepper",
+    "category": "Topping",
+    "ingredient": "Green Bell Pepper",
+    "notes": [
+        "For most pizzas I find a vertical slice works best, though on rare occasions a circular horizontal slice can provide more coverage and a cleaner look."
+    ],
+    "tags": [
+       "vegetarian",
+       "vegan"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Bacon",
+    "category": "Topping",
+    "ingredient": "Bacon",
+    "notes": [ ],
+    "tags": [
+        "meat",
+        "pork"
+    ]
+}

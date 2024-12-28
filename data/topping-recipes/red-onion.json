@@ -1,0 +1,12 @@
+{
+    "name": "Red Onion",
+    "category": "Topping",
+    "ingredient": "Red Onion",
+    "notes": [
+        "Thin vertical slices are a classic pizzaria look"
+    ],
+    "tags": [
+        "vegetarian",
+        "vegan"
+    ]
+}

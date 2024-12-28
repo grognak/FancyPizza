@@ -1,0 +1,21 @@
+{
+    "name": "Easy Tinned Tomato Sauce",
+    "category": "Sauce",
+    "description": "A very quick tomato sauce for Neopolitan and NY-style pizzas. This is best for a quick week night meal.",
+    "servings": "28 oz",
+    "ingredients": [
+        "1x 28oz Can of Crushed San Marzano Tomatoes",
+        "Pinch of Dried Italian Seasoning",
+        "Pinch of Salt"
+    ],
+    "instructions": [
+        "Add the italian seasoning and the salt directly into the can of crushed tomatoes and stir to combine"
+    ],
+    "notes": [
+        "Experiment with different brands of crushed tomatoes as each brand has a different idea of what crushed means",
+        "For an extra kick add some dried crushed red peppers."
+    ],
+    "tags": [
+        "quick"
+    ]
+}

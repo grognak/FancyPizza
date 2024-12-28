@@ -50,8 +50,9 @@ organized into their base components.
 
 
 ## Roadmap
-- [ ] Setup a recipe file format
-- [ ] Convert recipes to the file format
+- [x] Setup a recipe file format
+- [x] Convert recipes to the file format
+
 
 ## License
 [MIT] (FancyPizza\LICENSE)

@@ -1,0 +1,13 @@
+{
+    "name": "Pineapple",
+    "category": "Topping",
+    "ingredient": "Pineapple (Crushed or diced)",
+    "notes": [
+        "Using canned pineapple will impart more pineapple flavor but less acidity and vice versa with fresh pineapple."
+    ],
+    "tags": [
+        "vegetarian",
+        "vegan",
+        "pineapple"
+     ]
+}

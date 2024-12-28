@@ -1,0 +1,29 @@
+{
+    "name": "Basic Neopolitan Dough",
+    "category": "Base",
+    "description": "The basic Neopolitan dough that serves as a great base for crispy pizzas.",
+    "servings": "Makes 36oz of dough",
+    "ingredients": [
+        "595 grams Flour",
+        "12 grams Kosher Salt",
+        "3 grams Instant Yeast",
+        "404 grams Water (Room Temperature)",
+        "28 grams Olive Oil"
+    ],
+    "instructions": [
+        "Combine the dry ingredients then add the water then the oil and stir until a rough dough forms.",
+        "Let the dough rest for about 5 minutes to fully hydrate.",
+        "Once rested keep mixing for a couple more minutes until the dough becomes soft and tacky.",
+        "Oil your work surface and your hands and stretch and fold the dough. Make sure to stop and let the dough rest for a couple minutes every couple of folds.",
+        "Place the dough in a lightly oiled container, cover with plastic wrap, and refrigerate for 12-72 hours.",
+        "When you plan on baking the dough pull it out of the fridge, shape it into your desired sizes, and let the dough come up to room temp for at least 3 hours before baking."
+    ],
+    "notes": [
+        "If you are using a high-heat, wood-fired pizza omit the olive oil and increase the water by an extra 28g.",
+        "The best flour for this is 00 Italian flour but you can also use bread or all-purpose flour"
+    ],
+    "tags": [
+        "overnight",
+        "neopolitan"
+    ]
+}
